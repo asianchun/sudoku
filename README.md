@@ -7,7 +7,7 @@ Welcome to the Sudoku Game! This project is a Java implementation of the classic
 - [Demo](#demo)
 - [Features](#features)
 - [Run Locally](#run-locally)
-- [Usage](#usage)
+- [How To Play](#how-to-play)
 - [Game Rules](#game-rules)
 - [Customisation](#customisation)
 - [Contributing](#contributing)
@@ -41,7 +41,7 @@ To run Sudoku locally, follow these steps:
 4. That's it! You're ready to play sudoku!
 
 
-## Usage
+## How To Play
 
 1. Launch the Sudoku Game.
 2. Click on a cell to highlight it.
