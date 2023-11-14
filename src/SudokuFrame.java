@@ -38,9 +38,9 @@ public class SudokuFrame extends JFrame {
                             showWin(); //Spacebar
                         } else if (c == 45){
                             checkWin(); //Minus
-                        } else if (c == 43){
+                        } else if (c == 97){
                             if (!pencil){
-                                pencil = true; //Plus
+                                pencil = true; //a
                                 System.out.println("PENCIL ON");
                             } else {
                                 pencil = false;
