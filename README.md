@@ -4,17 +4,12 @@ Welcome to the Sudoku Game! This project is a Java implementation of the classic
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [How To Play](#how-to-play)
 - [Game Rules](#game-rules)
 - [Customisation](#customisation)
 - [Contributing](#contributing)
-
-## Demo
-
-Check out the live demo of the Sudoku [here](#).
 
 ## Features
 
